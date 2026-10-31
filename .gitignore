@@ -1,0 +1,10 @@
+.DS_Store
+.backup*/
+.latest-backup*
+.rollback-*.txt
+artifacts/
+node_modules/
+dist/
+*.log
+*.bak
+*.bak-*

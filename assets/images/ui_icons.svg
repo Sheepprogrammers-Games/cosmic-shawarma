@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 96">
+  <style>.i{fill:none;stroke:#F5F0FF;stroke-width:4;stroke-linecap:round;stroke-linejoin:round}.a{fill:#FFC93C;stroke:#1B1033;stroke-width:3}</style>
+  <defs>
+    <symbol id="coin" viewBox="0 0 24 24"><circle class="i" cx="12" cy="12" r="8"/><path class="i" d="M9 12h6M12 8v8"/></symbol>
+    <symbol id="star" viewBox="0 0 24 24"><path class="i" d="m12 3 2.7 5.7 6.3.8-4.6 4.4 1.2 6.1-5.6-3-5.6 3 1.2-6.1L3 9.5l6.3-.8z"/></symbol>
+    <symbol id="clock" viewBox="0 0 24 24"><circle class="i" cx="12" cy="12" r="9"/><path class="i" d="M12 7v6l4 2"/></symbol>
+    <symbol id="patience" viewBox="0 0 24 24"><path class="i" d="M5 5h14M5 19h14M7 5c0 4 2 5 5 7-3 2-5 3-5 7M17 5c0 4-2 5-5 7 3 2 5 3 5 7"/></symbol>
+    <symbol id="rep" viewBox="0 0 24 24"><path class="i" d="M4 18V8l8-5 8 5v10l-8 3zM8 11h8M8 15h5"/></symbol>
+    <symbol id="upgrade" viewBox="0 0 24 24"><path class="i" d="m12 3 6 7h-4v8h-4v-8H6z"/></symbol>
+    <symbol id="auto" viewBox="0 0 24 24"><path class="i" d="M4 12a8 8 0 0 1 14-5l2 2M20 12a8 8 0 0 1-14 5l-2-2M20 4v5h-5M4 20v-5h5"/></symbol>
+    <symbol id="menu" viewBox="0 0 24 24"><path class="i" d="M5 5h14M5 12h14M5 19h14"/></symbol>
+    <symbol id="shop" viewBox="0 0 24 24"><path class="i" d="M4 10h16l-2-6H6zM6 10v10h12V10M9 20v-6h6v6"/></symbol>
+    <symbol id="volume" viewBox="0 0 24 24"><path class="i" d="M4 10v4h4l5 4V6l-5 4zM16 9c2 2 2 4 0 6M19 6c4 4 4 8 0 12"/></symbol>
+    <symbol id="mute" viewBox="0 0 24 24"><path class="i" d="M4 10v4h4l5 4V6l-5 4zM17 9l5 6M22 9l-5 6"/></symbol>
+    <symbol id="pause" viewBox="0 0 24 24"><path class="i" d="M8 5v14M16 5v14"/></symbol>
+    <symbol id="check" viewBox="0 0 24 24"><path class="i" d="m4 12 5 5L20 6"/></symbol>
+    <symbol id="close" viewBox="0 0 24 24"><path class="i" d="M5 5l14 14M19 5 5 19"/></symbol>
+    <symbol id="warning" viewBox="0 0 24 24"><path class="i" d="m12 3 10 18H2zM12 9v5M12 18h.01"/></symbol>
+    <symbol id="heat" viewBox="0 0 24 24"><path class="i" d="M12 21c5 0 7-4 6-8-1 2-3 3-4 2 2-6-2-10-4-12 0 4-4 6-4 11 0 4 2 7 6 7z"/></symbol>
+    <symbol id="plus" viewBox="0 0 24 24"><path class="i" d="M12 4v16M4 12h16"/></symbol>
+    <symbol id="minus" viewBox="0 0 24 24"><path class="i" d="M4 12h16"/></symbol>
+    <symbol id="lock" viewBox="0 0 24 24"><rect class="i" x="5" y="10" width="14" height="11" rx="2"/><path class="i" d="M8 10V7a4 4 0 0 1 8 0v3"/></symbol>
+    <symbol id="restart" viewBox="0 0 24 24"><path class="i" d="M4 10a8 8 0 1 1 2 8M4 4v6h6"/></symbol>
+    <symbol id="share" viewBox="0 0 24 24"><circle class="i" cx="18" cy="5" r="3"/><circle class="i" cx="6" cy="12" r="3"/><circle class="i" cx="18" cy="19" r="3"/><path class="i" d="m9 10 6-3M9 14l6 3"/></symbol>
+    <symbol id="paper" viewBox="0 0 24 24"><path class="i" d="M5 3h14v18H5zM8 7h8M8 11h8M8 15h5"/></symbol>
+    <symbol id="bonk" viewBox="0 0 24 24"><path class="i" d="m4 18 10-10 4 4L8 22zM14 5l2-3M18 7l4-1M20 11l2 2"/></symbol>
+    <symbol id="perfect" viewBox="0 0 24 24"><circle class="i" cx="12" cy="12" r="9"/><path class="i" d="m8 12 3 3 5-6"/></symbol>
+  </defs>
+  <g>
+    <use href="#coin" x="0" width="24" height="24"/><use href="#star" x="24" width="24" height="24"/><use href="#clock" x="48" width="24" height="24"/><use href="#patience" x="72" width="24" height="24"/><use href="#rep" x="96" width="24" height="24"/><use href="#upgrade" x="120" width="24" height="24"/><use href="#auto" x="144" width="24" height="24"/><use href="#menu" x="168" width="24" height="24"/><use href="#shop" x="192" width="24" height="24"/><use href="#volume" x="216" width="24" height="24"/><use href="#mute" x="240" width="24" height="24"/><use href="#pause" x="264" width="24" height="24"/><use href="#check" x="288" width="24" height="24"/><use href="#close" x="312" width="24" height="24"/><use href="#warning" x="336" width="24" height="24"/><use href="#heat" x="360" width="24" height="24"/><use href="#plus" x="384" width="24" height="24"/><use href="#minus" x="408" width="24" height="24"/><use href="#lock" x="432" width="24" height="24"/><use href="#restart" x="456" width="24" height="24"/><use href="#share" x="480" width="24" height="24"/><use href="#paper" x="504" width="24" height="24"/><use href="#bonk" x="528" width="24" height="24"/><use href="#perfect" x="552" width="24" height="24"/>
+  </g>
+</svg>

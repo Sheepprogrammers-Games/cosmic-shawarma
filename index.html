@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+  <meta name="theme-color" content="#0B0A1F">
+  <title>银河餐饮指南：虫洞卷饼摊</title>
+  <link rel="icon" href="assets/favicon.svg">
+    <link rel="stylesheet" href="styles.css?v=playfield-clean-20260830">
+</head>
+<body>
+  <main id="game-shell">
+    <div id="hud" aria-label="营业状态"></div>
+    <canvas id="game-canvas" width="1280" height="720" aria-label="虫洞卷饼摊游戏画面"></canvas>
+    <audio id="menu-theme-audio" src="assets/audio/银河沙威玛.mp3" preload="auto" autoplay loop playsinline aria-hidden="true"></audio>
+    <section id="game-menu-panel" class="overlay" hidden aria-label="营业菜单"></section>
+    <section id="main-menu" class="overlay" aria-label="主菜单">
+      <!-- JS 加载前也保留一个可见的启动卡片，避免素材加载稍慢时只看到黑屏。 -->
+      <article class="main-menu-card boot-menu-card">
+        <header class="main-menu-hero">
+          <span class="menu-kicker">THE GALACTIC DINING GUIDE</span>
+          <h1>虫洞卷饼摊</h1>
+          <p>正在唤醒星门厨房……</p>
+          <small class="content-disclosure">含 AI 辅助素材 · 虚构世界观</small>
+        </header>
+        <div class="boot-menu-loader"><i></i></div>
+      </article>
+    </section>
+    <section id="shop-panel" class="overlay" hidden></section>
+    <section id="settle-panel" class="overlay" hidden></section>
+    <section id="headline-panel" class="overlay" hidden></section>
+    <section id="landscape-hint" class="overlay" hidden>
+      <img src="assets/images/ui_landscape_hint.png" alt="请旋转设备，横屏营业">
+    </section>
+  </main>
+  <script src="vendor/gsap.min.js"></script>
+  <script src="game.bundle.js?v=playfield-clean-20260830"></script>
+</body>
+</html>
