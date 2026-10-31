@@ -1,4 +1,10 @@
-# 《银河餐饮指南：虫洞卷饼摊》规划
+<p align="center">
+  <img src="docs/screenshots/cover.jpg" width="720" alt="银河餐饮指南：虫洞卷饼摊 封面">
+</p>
+
+<h1 align="center">银河餐饮指南：虫洞卷饼摊</h1>
+
+<p align="center">把小行星带星门服务区的单屏摆摊经营，做成一场手忙脚乱的出餐体验</p>
 
 **一句话定位**：把单屏摆摊经营循环搬到小行星带的星门服务区，用「外星霓虹手绘」美术重做，并加入清晰的三星成长目标。
 
@@ -11,6 +17,17 @@
 | 单局时长 | 15–25 分钟通关至三星 |
 | 参赛 | 星匣周赛投稿作品 |
 | 技术栈 | 原生 ES Modules + Canvas 2D + esbuild，无框架 |
+
+## 画面
+
+<p align="center">
+  <img src="docs/screenshots/04-title.jpg" width="49%" alt="游戏界面">
+  <img src="docs/screenshots/01-customers.jpg" width="49%" alt="顾客">
+</p>
+<p align="center">
+  <img src="docs/screenshots/02-materials.jpg" width="49%" alt="食材">
+  <img src="docs/screenshots/03-scenes.jpg" width="49%" alt="场景">
+</p>
 
 ## 文档索引
 
